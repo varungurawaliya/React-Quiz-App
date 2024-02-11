@@ -1,5 +1,5 @@
 # React Quiz Ap-
-### [Live Link](https://account-manager-v.netlify.app/)
+### [Live Link](https://react-quiz-v.netlify.app/)
 
 ## Components
 - Home page
