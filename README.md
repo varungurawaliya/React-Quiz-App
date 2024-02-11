@@ -1,11 +1,5 @@
-# React Quiz Ap-
+# React Quiz App
 ### [Live Link](https://react-quiz-v.netlify.app/)
-
-## Components
-- Home page
-- Login Page
-- Sign Up Page
-- Account Manage Page
 
 ## Tech Used
 - React
